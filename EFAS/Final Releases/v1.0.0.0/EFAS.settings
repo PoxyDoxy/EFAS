@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ArrayOfString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <string>70</string>
+  <string>False</string>
+  <string>True</string>
+  <string>True</string>
+  <string>True</string>
+  <string>True</string>
+  <string>True</string>
+  <string>False</string>
+  <string>http://127.0.0.1/fall_found.php</string>
+</ArrayOfString>
