@@ -26,7 +26,7 @@ EFAS can:
 
  There is an 8 page document covering everything this program does in depth, including:
 
- EFAS Documentation v1.0.0.0 [Download](https://github.com/PoxyDoxy/EFAS/releases/latest/)
+ EFAS Documentation v1.0.0.0 [Download](https://github.com/PoxyDoxy/EFAS/blob/master/EFAS%20Documentation%20v1.0.0.0.docx)
 
 ![Device Searching](DeviceSearching.jpg)
 ![Fall Found](FallFound.jpg)
@@ -34,10 +34,10 @@ EFAS can:
 
 ## Requirements 
 The ‘EFAS.exe’ requires certain files in order to start up. These are:
-•	AGauge.dll
-•	xsensdeviceapi_csharp64.dll
-•	xsensdeviceapi64.dll
-•	xstypes64.dll
+- AGauge.dll
+- xsensdeviceapi_csharp64.dll
+- xsensdeviceapi64.dll
+- xstypes64.dll
 
 In addition, it requires ‘trigger_sound.wav’ in order to play sound alerts.
 These files should be located next to ‘EFAS.exe’.
