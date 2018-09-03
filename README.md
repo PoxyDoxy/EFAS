@@ -26,7 +26,7 @@ EFAS can:
 
  There is an 8 page document covering everything this program does in depth, including:
 
- EFAS Documentation v1.0.0.0 [Download](https://github.com/PoxyDoxy/EFAS/blob/master/EFAS%20Documentation%20v1.0.0.0.docx)
+ EFAS Documentation v1.0.0.0 [Download](https://github.com/PoxyDoxy/EFAS/raw/master/EFAS%20Documentation%20v1.0.0.0.docx)
 
 ![Device Searching](DeviceSearching.jpg)
 ![Fall Found](FallFound.jpg)
