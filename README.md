@@ -5,7 +5,7 @@
 - Built for University Project.
 - Written in C#, using the XSens API.
 
-![Fall Detection](FallDetection.jpg)
+![Device Searching](DeviceSearching.jpg)
 
 ## Purpose
 There are a large variety of Fall Alert Systems out there, however the majority of them involve a **manual button**. 
@@ -28,7 +28,7 @@ EFAS can:
 
  EFAS Documentation v1.0.0.0 [Download](https://github.com/PoxyDoxy/EFAS/raw/master/EFAS%20Documentation%20v1.0.0.0.docx)
 
-![Device Searching](DeviceSearching.jpg)
+![Fall Detection](FallDetection.jpg)
 ![Fall Found](FallFound.jpg)
 ![Fall Recording](ManualRecording.jpg)
 
